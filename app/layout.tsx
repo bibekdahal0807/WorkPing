@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata = {
-  title: "WorkPing",
+  title: "WorkPing", // Ensure correct title is displayed
   description: "Client updates from GitHub activity",
 };
 
