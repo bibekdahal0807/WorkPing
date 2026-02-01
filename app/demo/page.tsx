@@ -12,7 +12,7 @@ export default function DemoPage() {
           Client Update Demo
         </h1>
         <p className="mt-2 text-slate-600">
-          See how ClientPing turns real GitHub activity into clear,
+          See how WorkPing turns real GitHub activity into clear,
           client-ready progress updates.
         </p>
         <p className="mt-2 text-sm text-slate-400">
