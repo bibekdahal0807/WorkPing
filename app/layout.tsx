@@ -1,9 +1,9 @@
 import "./globals.css";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "WorkPing",
-  description: "Turn real GitHub commits and merged PRs into clean, client-ready progress updates.",
+  description: "Client updates from GitHub activity",
 };
 
 export default function RootLayout({
